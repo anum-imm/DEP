@@ -7,3 +7,7 @@ This repository contains the projects and tasks completed during my summer inter
  
  ##Spam email classifier
    -Implemented a spam email classifier using a machine learning algorithm (Naive bayes).
+
+ ##Digit Recognizer using MNIST dataset
+   -Implemented a neural network for the recogination of numbers.
+
