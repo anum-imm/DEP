@@ -9,5 +9,8 @@ This repository contains the projects and tasks completed during my summer inter
    -Implemented a spam email classifier using a machine learning algorithm (Naive bayes).
 
  ##Digit Recognizer using MNIST dataset
-   -Implemented a neural network for the recogination of numbers.
+   -Implemented a neural network for the recogination of numbers. 
+
+##Sentiment Analysis Model
+   -Developed a sentiment analysis model to classify the sentiment of product reviews as positive, negative, or neutral.
 
